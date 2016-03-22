@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FriendlyBet</string>
+    <string name="label_bet_title">Title</string>
+    <string name="dummy_bet_title">Bet Dummy</string>
+    <string name="label_bet_win_condition">Win condition</string>
+    <string name="label_bet_amount">Amount</string>
+    <string name="button_place_bet">Place bet</string>
+</resources>

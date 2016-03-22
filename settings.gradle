@@ -1,0 +1,2 @@
+include ':app'
+include ':libs:dagger-1.2.2'
